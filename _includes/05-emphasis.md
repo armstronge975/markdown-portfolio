@@ -1,4 +1,4 @@
 - **Java**
 - **Python**
-- *Public* Speaking
-- *Networking*
+- **Public Speaking**
+- **Networking**
